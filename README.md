@@ -4,6 +4,9 @@ Nesse projeto foi construido uma interface web que consome dados da API do GitHu
 
 * React
 
-Obs: Esse projeto foi criado com base no curso "Criando um front-end totalmente componentizado na prática com ReactJS" da DIO.
+Ao baixar o repositorio basta usar o comando "npm install", após a instalação é necessario iniciar o projeto react com o comando "npm start".
 
-By: Gibox
+
+__Obs: Esse projeto foi criado com base no curso "Criando um front-end totalmente componentizado na prática com ReactJS" da DIO.__
+
+__**By: Gibox**__
